@@ -42,6 +42,6 @@ std::cout<< "hello C++";
 
 
 
-[**click here togo to my portfolio**](https://akowannathanael.github.io/nathanaelakowan.github.io/ )
+[**click here togo to my portfolio**](https://akowannathanael.github.io/nathanaelaakowan.github.io/ )
 
 >Powered By Nathanael Alimsiwen Akowan
